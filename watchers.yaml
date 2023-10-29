@@ -1822,3 +1822,5 @@ jlidrych:
 - RecoLocalTracker/SubCollectionProducers
 lenzip:
 - PhysicsTools/NanoAODTools
+salimcerci:
+- CondCore/HcalPlugins
